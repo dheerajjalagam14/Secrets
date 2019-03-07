@@ -12,4 +12,3 @@ To Run locally:<br>
 enter <b> npm install </b> <br>
 enter <b> node app.js</b> in your cli <br>
 Open http://localhost:3000 to view it in the browser.
-
